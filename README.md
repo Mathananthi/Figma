@@ -365,7 +365,8 @@ background: url(Saveetha logo.jpg);
 ```
 
 ## OUTPUT:
-![Alt text](<Screenshot 2023-11-17 183623.png>)
+![Screenshot 2023-11-17 183623](https://github.com/Mathananthi/Figma/assets/135731816/7da29bc8-467a-466d-9fdd-42572b63c1b2)
+
 
 
 ## RESULT:
